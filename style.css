@@ -1,1 +1,24 @@
 this is css file
+/* CSS Sample */
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #007bff;
+  text-align: center;
+}
+
+button {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}
