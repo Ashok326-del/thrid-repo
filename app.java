@@ -1,4 +1,5 @@
 This is java file
+
 public class AddNumbers {
     public static void main(String[] args) {
         int num1 = 10;   // first number
@@ -8,3 +9,7 @@ public class AddNumbers {
         System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 }
+
+
+this is added by developer1
+
